@@ -278,7 +278,7 @@ Edita el archivo `.env` con tus configuraciones:
 # ===================================
 # DATABASE CONFIGURATION
 # ===================================
-DATABASE_URL="postgresql://admin:admin@localhost:5432/sistema_aeropuerto_db?schema=public"
+DATABASE_URL="postgresql://USUARIO:CONTRASEÑA@localhost:5432/sistema_aeropuerto_db?schema=public"
 
 # ===================================
 # JWT SECRETS

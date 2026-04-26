@@ -13,7 +13,7 @@
     }
   ],
   "env": {
-    "GESTORMARX_URL": "postgresql://neondb_owner:npg_0dRDIskWv9cA@ep-polished-star-ahf71ieb-pooler.c-3.us-east-1.aws.neon.tech/gestormarx?sslmode=require&channel_binding=require",
-    "JWT_SECRET": "shfashasSBDGWI289Y9Q87182$$/&SFSJNJNF516415"
+    "GESTORMARX_URL": "",
+    "JWT_SECRET": ""
   }
 }
